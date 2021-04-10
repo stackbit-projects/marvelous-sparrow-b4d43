@@ -5,9 +5,9 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Here at Maven Digital, we help budding entrepreneurs and digital marketers
+      in their journey towards excellence.
     actions:
       - label: Learn More
         url: /features
