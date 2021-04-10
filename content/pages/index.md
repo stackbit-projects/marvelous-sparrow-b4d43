@@ -23,8 +23,8 @@ sections:
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
-          It is all about delivering the right message and the company's story
-          and create a hype. That's what we strive to do at Majime Digital.
+          It is all about storytelling and delivering the right message to
+          create a hype. That's what we strive to do at Majime Digital.
         actions:
           - label: Learn More
             url: /features
