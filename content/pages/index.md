@@ -52,7 +52,31 @@ sections:
           anytime you like.
 
 
-          > They say 
+          *   Logo design and branding
+
+
+          *   Photo and video editing
+
+
+          *   Flyers and posters
+
+
+          *   Banners
+
+
+          *   T-shirts
+
+
+          *   Wordpress Page(s)
+
+
+          *   Restaurant menu
+
+
+          *   Brochures
+
+
+          *   Social media posts
         actions:
           - label: Learn More
             url: /features
