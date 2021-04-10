@@ -47,10 +47,10 @@ sections:
       - title: Cool Feature of Your Services
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          Subscribe to a plan based on your requirements and get the best out of
+          your money. Never overpay for your digital needs. You can cancel
+          anytime you like.
         actions:
           - label: Learn More
             url: /features
