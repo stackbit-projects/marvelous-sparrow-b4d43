@@ -44,8 +44,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Cool Feature of Your Services
-        image: images/feature3.png
+      - image: images/feature3.png
         image_alt: App user profile preview
         content: >
           Subscribe to a plan based on your requirements and get the best out of
