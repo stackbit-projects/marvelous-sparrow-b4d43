@@ -6,8 +6,8 @@ sections:
     image: images/hero.png
     image_alt: App preview
     content: >
-      Here at Maven Digital, we help budding entrepreneurs and digital marketers
-      in their journey towards excellence.
+      Here at Majime Digital, we help budding entrepreneurs and digital
+      marketers in their journey towards excellence.
     actions:
       - label: Learn More
         url: /features
