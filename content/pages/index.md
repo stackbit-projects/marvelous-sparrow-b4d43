@@ -50,6 +50,9 @@ sections:
           Subscribe to a plan based on your requirements and get the best out of
           your money. Never overpay for your digital needs. You can cancel
           anytime you like.
+
+
+          > They say 
         actions:
           - label: Learn More
             url: /features
