@@ -6,8 +6,8 @@ sections:
     image: images/hero.png
     image_alt: App preview
     content: >
-      Here at Majime Digital, we help you write a compelling story which is sure
-      to stir up a hype in your target audience.
+      Here at Majime Digital, we help you write a compelling story through
+      digital media which is sure to stir up a hype in your target audience.
     actions:
       - label: Learn More
         url: /features
