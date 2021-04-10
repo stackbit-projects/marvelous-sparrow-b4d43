@@ -19,7 +19,7 @@ sections:
     title: Features
     subtitle: 'Logo design, banners, posts, and a lot more...'
     features:
-      - title: Logo Design
+      - title: Digital media design
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
