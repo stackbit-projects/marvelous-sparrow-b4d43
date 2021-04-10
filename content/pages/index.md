@@ -12,7 +12,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-    title: Welcome to Sparrow Digital
+    title: Welcome to Maven Digital
   - section_id: features
     type: section_features
     background: gray
