@@ -19,7 +19,7 @@ sections:
     title: Features
     subtitle: 'Logo design, banners, posts, and a lot more...'
     features:
-      - title: The Best Feature of Your Services
+      - title: Logo Design
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
