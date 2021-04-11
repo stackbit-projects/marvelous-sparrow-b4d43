@@ -1,6 +1,5 @@
 import React from 'react';
 import _ from 'lodash';
-import CallButton from './CallButton';
 
 import {Link, withPrefix, classNames} from '../utils';
 import Icon from './Icon';
