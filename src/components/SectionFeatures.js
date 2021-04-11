@@ -39,7 +39,7 @@ export default class SectionFeatures extends React.Component {
                       <div className="block-buttons">
                         <CtaButtons {...this.props} actions={_.get(feature, 'actions', null)} />
                       </div>
-                      <div>
+                      <CallButton />
                       )}
                     </div>
                   </div>
