@@ -7,21 +7,22 @@ sections:
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
     title: Tired of overpaying for graphic design ?
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      You either have to hire a dedicated team of graphic designers or a
+      consultant to fulfil your graphic design requirements until NOW,
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
+      With Majime digital, you get a subscription to a talented and dedicated
+      team of designers with perks:
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      *   Fast turnaround time (1-2) business days.
+
+
+      *   Unlimited revisions\*
+
+
+      *   Value for money
     actions:
       - label: Free Trial
         url: /signup
