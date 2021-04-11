@@ -27,7 +27,7 @@ sections:
 
 
 
-      > \*Premium plans bring with them premium features.
+      \*Premium plans bring with them premium features.
     actions:
       - label: Free Trial
         url: /signup
