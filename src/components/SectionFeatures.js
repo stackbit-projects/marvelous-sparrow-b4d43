@@ -45,10 +45,6 @@ export default class SectionFeatures extends React.Component {
                 </div>
                 ))}
                 </div>
-                <div>
-                    <CallButton />
-                </div>
-
               )}
             </section>
         );
