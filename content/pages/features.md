@@ -16,7 +16,7 @@ sections:
       team of designers with perks:
 
 
-      *   Fast turnaround time (1-2) business days.
+      *   Fast turnaround time (1-2) business days
 
 
       *   Unlimited revisions\*
