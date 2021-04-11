@@ -47,9 +47,13 @@ sections:
       - image: images/feature3.png
         image_alt: App user profile preview
         content: >
-          Subscribe to a plan based on your requirements and get the best out of
-          your money. Never overpay for your digital needs. You can cancel
-          anytime you like.
+          > **Subscribe**
+
+          >
+
+          >  to a plan based on your requirements and get the best out of your
+          money. Never overpay for your digital needs. You can cancel anytime
+          you like.
 
 
           *   Logo design and branding
