@@ -52,12 +52,9 @@ sections:
     subtitle: If you reeeally would like to go to the bottom of things...
     faq_items:
       - question: How do I unsubscribe ?
-        answer: >-
-          Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
-          tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
-          mollis feugiat. Praesent nibh libero, placerat et justo at, luctus
-          tristique enim. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas.
+        answer: >
+          Just send out an e-mail stating that you're done ! You'll be
+          unsubscribed to our services... NO QUESTIONS ASKED
       - question: Aliquam eget purus ante?
         answer: >-
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
