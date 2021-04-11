@@ -83,9 +83,6 @@ sections:
 
 
           *   Business cards
-
-
-          *
         actions:
           - label: Learn More
             url: /features
