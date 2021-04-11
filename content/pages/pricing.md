@@ -49,7 +49,7 @@ sections:
     type: section_faq
     background: gray
     title: Frequently Asked Questions
-    subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
+    subtitle: If you reeeally would like to go to the bottom of things...
     faq_items:
       - question: How do I unsubscribe ?
         answer: >-
