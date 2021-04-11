@@ -8,6 +8,7 @@ export default class CallButton extends React.Component{
                 <img border="none" src="https://storage.googleapis.com/setmore-assets/2.0/Images/Integration/book-now-blue.svg" alt="Book an appointment with CreativePixel using Setmore" />
             </a>
         
-        );}
+        );
+    }
 
 }
