@@ -77,6 +77,9 @@ sections:
 
 
           *   Social media posts
+
+
+          *   Icons
         actions:
           - label: Learn More
             url: /features
