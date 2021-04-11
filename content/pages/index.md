@@ -119,6 +119,7 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
+        no_follow: true
   - section_id: recent-posts
     type: section_posts
     background: gray
