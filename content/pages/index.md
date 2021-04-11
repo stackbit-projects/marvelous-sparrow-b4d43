@@ -101,6 +101,10 @@ sections:
       - author: Eric Widget
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
+        content: >-
+          Definitely worth the investment. Needless to say we are extremely
+          satisfied with the results. The very best. Graphic design has
+          completely surpassed our expectations.
       - author: Parsley Montana
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
