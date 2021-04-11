@@ -114,7 +114,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Subscribe now
-    subtitle: This is an optional description for the call to action block.
+    subtitle: and avail discounts !
     actions:
       - label: Get Started
         url: /signup
