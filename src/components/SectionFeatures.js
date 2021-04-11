@@ -3,7 +3,7 @@ import _ from 'lodash';
 
 import {htmlToReact, withPrefix, markdownify} from '../utils';
 import CtaButtons from './CtaButtons';
-import CallButton from 
+import CallButton from './CallButton';
 
 export default class SectionFeatures extends React.Component {
     render() {
