@@ -94,9 +94,7 @@ sections:
     type: section_reviews
     background: white
     title: Testimonials
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
+    subtitle: You don't have to take our word for it...
     reviews:
       - author: Eric Widget
         avatar: images/review1.jpg
