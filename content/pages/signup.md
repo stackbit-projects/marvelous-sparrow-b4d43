@@ -23,4 +23,4 @@ seo:
       value: This is the sign up page
 layout: page
 ---
-Get ready for a hassle-free experience with graphic design. Just send in your requirements and revisions and wait for consistent results from the team at Majime Digital.
+Get ready for a hassle-free graphic design experience . Just send in your requirements and revisions and wait for consistent results from the team at Majime Digital.
