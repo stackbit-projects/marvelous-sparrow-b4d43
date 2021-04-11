@@ -20,6 +20,7 @@ export default class Action extends React.Component {
                 <Icon {...this.props} icon={action_icon} />
               )}
               <span className={classNames({'order-first': action_icon_pos === 'right'})}>{_.get(action, 'label', null)}</span>
+              <CallButton />
             </Link>
         );
     }
