@@ -23,6 +23,9 @@ sections:
 
 
       *   Value for money
+
+
+      \*Premium plans bring with them premium features.
     actions:
       - label: Free Trial
         url: /signup
